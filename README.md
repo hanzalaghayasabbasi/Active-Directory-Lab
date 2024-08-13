@@ -3,7 +3,7 @@
 
 This repository provides an Active Directory lab environment designed for practicing and exploring security features, potential abuse scenarios, and defense mechanisms. The lab includes a set of pre-configured virtual machines and tools, saving you significant time compared to setting up these environments manually.
 
-For a comprehensive understanding of the lab and its usage, watching the accompanying [TXM Security video](https://youtu.be/VXxH4n684HE?si=KaFoQuEIahVq8Aza) is highly recommended.
+For a comprehensive understanding of the lab and its usage, watching the accompanying [TCM Security video](https://youtu.be/VXxH4n684HE?si=KaFoQuEIahVq8Aza) is highly recommended.
 
 
 ## Download Links
